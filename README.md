@@ -5,3 +5,5 @@ I was reall bored so i wanted to see if i can make a quite accurate representati
 NOTE: The queue counter does not change, its static
 
 Live Demo: https://akjr.site/2b2t-queue
+
+It also renders weird on mobile browsers

@@ -6,4 +6,4 @@ NOTE: The queue counter does not change, its static
 
 Live Demo: https://akjr.site/2b2t-queue
 
-It also renders weird on mobile browsers
+And yes i will eventually use api.2b2t.dev for live queue status, just to lazy rn 
